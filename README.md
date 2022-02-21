@@ -8,5 +8,4 @@ Inferential Statistics: Relationship between speed and distance : Using a datase
 Data Visualization: Car Speed & Distance: A scatter plot for the relationship between distance and speed and another scatter plot for the relationship between the square root of distance and speed. 
 
 R
-[bullet]
 
